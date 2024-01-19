@@ -3,3 +3,5 @@ A personal interest repo to build a react application showcasing different marve
 
 ## APIs Used
 Marvel characters: https://rapidapi.com/stefan.skliarov/api/Marvel/
+
+test
