@@ -4,4 +4,6 @@ A personal interest repo to build a react application showcasing different marve
 ## APIs Used
 Marvel characters: https://rapidapi.com/stefan.skliarov/api/Marvel/
 
-test
+
+## Hash generator
+https://www.md5hashgenerator.com
